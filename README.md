@@ -20,6 +20,7 @@ Centralizar:
 
 ## 👥 Governança
 ### Devs (Write)
+- Pedro (master)
 - Lucas Silva  
 - Lucas Vieira  
 - Leibruder  
